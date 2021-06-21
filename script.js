@@ -1,1 +1,5 @@
-const mehfooz=['location','href','querySelector','https://discord.com/oauth2/authorize?client_id=789214598988562484&scope=bot&permissions=8','','createTextNode','button.s-m-btn','createElement','footer','onclick','button.hero-btn','appendChild'];(function(mehfooz,mehfooz){const mehfooz=function(mehfooz){while(--mehfooz){mehfooz['push'](mehfooz['shift']());}};mehfooz(++mehfooz);}(mehfooz,0xfd));const mehfooz=function(mehfooz,mehfooz){mehfooz=mehfooz-0x0;let mehfooz=mehfooz[mehfooz];return mehfooz;};document[mehfooz('0x1')](mehfooz('0x9'))[mehfooz('0x8')]=mehfooz=>window[mehfooz('0xb')][mehfooz('0x0')]=mehfooz('0x2');document[mehfooz('0x1')](mehfooz('0x5'))[mehfooz('0x8')]=mehfooz=>window[mehfooz('0xb')][mehfooz('0x0')]='https://discord.com/oauth2/authorize?client_id=789214598988562484&scope=bot&permissions=8';let footer=document[mehfooz('0x6')](mehfooz('0x7'));let text=document[mehfooz('0x4')](mehfooz('0x3'));footer[mehfooz('0xa')](text);document['body'][mehfooz('0xa')](footer);
+document.querySelector('.img-btn').addEventListener('click', function()
+	{
+		document.querySelector('.cont').classList.toggle('s-signup')
+	}
+);
